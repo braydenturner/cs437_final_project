@@ -1,0 +1,8 @@
+media/
+logs/
+data/
+saved_model/
+*.pages
+*.txt
+.ipynb_checkpoints/
+
